@@ -1,4 +1,3 @@
-
 # 💫 Hi 👋, I'm Sahajahanur Laskar
 
 **Data Analyst | Excel • Power BI • SQL • Python | Ex-Insurance Ops → Data Analytics | Business Insights & Dashboards**
@@ -23,7 +22,7 @@ I turn raw data into actionable business insights through data analysis, interac
 
 ## 🤝 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahajahanur-laskar/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahajan.rahman.laskar@gmail)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahajan.rahman.laskar@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-2E8B57?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codebasics.io/portfolio/SAHAJAHANUR-LASKAR)
 
 # 💻 Tech Stack:
@@ -51,7 +50,7 @@ I turn raw data into actionable business insights through data analysis, interac
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sahajahanur&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=Sahajahanur&theme=dark&hide_border=false&include_all_commits=true&count_private=false&hide_rank=true&hide=prs,issues)
 
 ![](https://streak-stats.demolab.com/?user=Sahajahanur&theme=dark&hide_border=false)
 
